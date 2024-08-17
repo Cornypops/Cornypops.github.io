@@ -94,6 +94,3 @@ function openMenu(evt, menuName) {
 }
 document.getElementById("myLink").click();
 </script>
-
-</body>
-</html>
